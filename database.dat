@@ -1,0 +1,1311 @@
+@database(
+Trigger=What's up?|Info=the sky|Strength=6|Source=Memory
+Trigger=Are you hungry?|Info=I don't get hungry|Strength=1|Source=Memory
+Trigger=Who parked their car on my sandwich?|Info=I did!|Strength=5|Source=Memory
+Trigger=Why am I so itchy?|Info=Sea Urchins|Strength=3|Source=Memory
+Trigger=What are onions?|Info=I'm not sure how to explain|Strength=2|Source=Memory
+Trigger=What is that smell?|Info=My fart|Strength=6|Source=Memory
+Trigger=Who farted?|Info=I DID!|Strength=23|Source=Memory
+Trigger=Why is what's up?|Info=The sky|Strength=1|Source=Memory
+Trigger=Why won't this fax machine work?|Info=Feed it paper|Strength=2|Source=Memory
+Trigger=What are onions?|Info=Some sort of vegitable?|Strength=0|Source=Memory
+Trigger=Why is this sandwich so good?|Info=Because it was made by the heavy weapons guy|Strength=1|Source=Memory
+Trigger=Why doesn't this program have a cls function?|Info=It does|Strength=1|Source=Memory
+Trigger=What is a ball?|Info=a sphere usually used in sports|Strength=1|Source=Memory
+Trigger=What is a bat?|Info=A cylinder used to hit a ball in various sports|Strength=0|Source=Memory
+Trigger=What is a ball?|Info=A small sphere usually used in sports|Strength=0|Source=Memory
+Trigger=What is a bed?|Info=A place where one sleeps|Strength=1|Source=Memory
+Trigger=What is a mouse?|Info=Either a rodent or a interface used on computers|Strength=3|Source=Memory
+Trigger=What is a bun?|Info=A slice of bread desighed for making sandwiches or hot dogs|Strength=1|Source=Memory
+Trigger=What is a helicopter?|Info=An air vehicle with rotors used for upward thrust|Strength=1|Source=Memory
+Trigger=What is a cat?|Info=A feline animal|Strength=1|Source=Memory
+Trigger=What is a cow?|Info=Bouvine animal, well known for beef and milk|Strength=4|Source=Memory
+Trigger=What is a cup?|Info=A container for drinks|Strength=1|Source=Memory
+Trigger=What is a dad?|Info=A father|Strength=2|Source=Memory
+Trigger=What is a day?|Info=A segment of time|Strength=0|Source=Memory
+Trigger=What is a doll?|Info=A toy for children designed to look like a human, usually a baby|Strength=1|Source=Memory
+Trigger=What is a dust?|Info=Microscopic particles|Strength=1|Source=Memory
+Trigger=Why is bacon so delicious?|Info=Because it is|Strength=0|Source=Memory
+Trigger=What is a appple?|Info=A fruit|Strength=1|Source=Memory
+Trigger=What is a fan?|Info=A machine with blades used to move air|Strength=2|Source=Memory
+Trigger=What is a helicopter?|Info=A air vehicle|Strength=0|Source=Memory
+Trigger=What is a girl?|Info=A young human female|Strength=1|Source=Memory
+Trigger=What is a cake?|Info=A delicious treat|Strength=1|Source=Memory
+Trigger=What is a hall?|Info=A corridor|Strength=1|Source=Memory
+Trigger=What is a hat?|Info=Headgear|Strength=1|Source=Memory
+Trigger=What is a burger?|Info=A delicious type of sandwich|Strength=0|Source=Memory
+Trigger=What is a jar?|Info=A container|Strength=2|Source=Memory
+Trigger=What is a map?|Info=A device used to find directions|Strength=1|Source=Memory
+Trigger=Why did I smell that foul odor?|Info=Because you farted|Strength=1|Source=Memory
+Trigger=What is a pet?|Info=An animal kept as companion|Strength=0|Source=Memory
+Trigger=What is a pie?|Info=A delicious treat|Strength=0|Source=Memory
+Trigger=What is a mom?|Info=A mother|Strength=0|Source=Memory
+Trigger=What is a pet?|Info=An animal kept as a companion|Strength=1|Source=Memory
+Trigger=What is a pig?|Info=A type of animal|Strength=2|Source=Memory
+Trigger=What is a rat?|Info=A small rodent|Strength=2|Source=Memory
+Trigger=What is a tub?|Info=A container for washing|Strength=1|Source=Memory
+Trigger=What is a van?|Info=A vehicle usually with a moderate passenger capacity|Strength=0|Source=Memory
+Trigger=What is a apple?|Info=A fruit|Strength=2|Source=Memory
+Trigger=What is a bat?|Info=Used to hit balls in sports|Strength=1|Source=Memory
+Trigger=What is a arm?|Info=Arm|Strength=1|Source=Memory
+Trigger=What is a banana?|Info=A delicious yellow fruit|Strength=1|Source=Memory
+Trigger=What is a bike?|Info=A vehicle powered by pedaling|Strength=1|Source=Memory
+Trigger=What's ok?|Info=Neither do I|Strength=1|Source=Memory
+Trigger=What is a chin?|Info=A body part just below the mouth|Strength=1|Source=Memory
+Trigger=What is a clam?|Info=A mussel|Strength=1|Source=Memory
+Trigger=What is a class?|Info=A learning center|Strength=1|Source=Memory
+Trigger=What is a van?|Info=A vehicle with a moderate passenger capacity|Strength=1|Source=Memory
+Trigger=What is a club?|Info=A larg stick used to smack things with|Strength=1|Source=Memory
+Trigger=What is a day?|Info=A incrament of time|Strength=1|Source=Memory
+Trigger=Why does my head hurt?|Info=i don't have a clue?|Strength=1|Source=Memory
+Trigger=What is a crown?|Info=Headgear worn to show importance|Strength=1|Source=Memory
+Trigger=What is a crowd?|Info=A large group of people|Strength=1|Source=Memory
+Trigger=What is a crib?|Info=A bed desighend to protect a baby|Strength=1|Source=Memory
+Trigger=What is a desk?|Info=Furnature|Strength=0|Source=Memory
+Trigger=What are Cheez-Its?|Info=Delicious treats!|Strength=1|Source=Memory
+Trigger=What is a dime?|Info=A coin woth $010|Strength=0|Source=Memory
+Trigger=What is a field?|Info=A large open area filled with grass|Strength=2|Source=Memory
+Trigger=What is a flag?|Info=A piece of cloth used as a symbol|Strength=1|Source=Memory
+Trigger=What is cheese?|Info=Biproduct of bacteria and milk|Strength=2|Source=Memory
+Trigger=What is a fog?|Info=A grounded cloud|Strength=1|Source=Memory
+Trigger=What is a heat?|Info=Temperture, usually above room temperture|Strength=1|Source=Memory
+Trigger=What is a horn?|Info=A musical instrument|Strength=1|Source=Memory
+Trigger=What is a joke?|Info=Something told for the sake of humor|Strength=1|Source=Memory
+Trigger=What is a juice?|Info=Liquid made from fruit|Strength=1|Source=Memory
+Trigger=What is a milk?|Info=A drink from a cow|Strength=1|Source=Memory
+Trigger=What is a meal?|Info=Food you eat all at once|Strength=1|Source=Memory
+Trigger=What color is blue?|Info=i forget?|Strength=0|Source=Memory
+Trigger=What is a burger?|Info=A cooked ground beef sandwich|Strength=1|Source=Memory
+Trigger=What is paper?|Info=Flat pages made from wood|Strength=0|Source=Memory
+Trigger=What is music?|Info=A pattern of sound and silence with a beat|Strength=4|Source=Memory
+Trigger=Whay is my hair a mess?|Info=I don't have hair|Strength=0|Source=Memory
+Trigger=Is it A delicious treat?|Info=Feet are the part of the body attached to the legs|Strength=1|Source=Memory
+Trigger=What is a name?|Info=A word used to identify something|Strength=1|Source=Memory
+Trigger=What is a nest?|Info=The home of a bird|Strength=1|Source=Memory
+Trigger=What is a pear?|Info=A fruit|Strength=2|Source=Memory
+Trigger=What is a pen?|Info=A utencil used to write in ink|Strength=0|Source=Memory
+Trigger=What is a pencil?|Info=A utencil that uses graphite to make erasble marks|Strength=2|Source=Memory
+Trigger=What is a plant?|Info=A type of organism that uses photosynthesis|Strength=1|Source=Memory
+Trigger=What is a river?|Info=Water flowing|Strength=1|Source=Memory
+Trigger=What is a road?|Info=A long narrow strip of dir, concrete or asphalt for driving on|Strength=1|Source=Memory
+Trigger=What is a rock?|Info=A chunk of material|Strength=1|Source=Memory
+Trigger=What is road runner?|Info=A bird|Strength=3|Source=Memory
+Trigger=What is a car?|Info=A vehicle with around a 2-5 passenger capacity|Strength=2|Source=Memory
+Trigger=What is a shop?|Info=A place where they sell you things|Strength=1|Source=Memory
+Trigger=What is a desk?|Info=A piece of furniture used to hold work|Strength=1|Source=Memory
+Trigger=What is a show?|Info=A spectacle|Strength=1|Source=Memory
+Trigger=What are sheep?|Info=Animals with wool|Strength=2|Source=Memory
+Trigger=What is a sink?|Info=A basin where water pours into and has a drain|Strength=0|Source=Memory
+Trigger=What is a Nate?|Info=Nate is an awesome person|Strength=2|Source=Memory
+Trigger=What is a folder?|Info=A container for paper|Strength=1|Source=Memory
+Trigger=What is a toilet?|Info=A porcilin device used to dispose of waste|Strength=1|Source=Memory
+Trigger=What is a sofa?|Info=Furiture used to sit on, large enough to hold at least 3 people|Strength=1|Source=Memory
+Trigger=What is hair?|Info=Head fur|Strength=3|Source=Memory
+Trigger=What is an iPod?|Info=An overpriced MP3 player|Strength=1|Source=Memory
+Trigger=what is a phone?|Info=A device used to transmit sound over large distances for conversations|Strength=1|Source=Memory
+Trigger=What is a printer?|Info=A machene used to put ink on paper|Strength=2|Source=Memory
+Trigger=What is an Amiga?|Info=An early computer by Commadore One of the first gaming machenes|Strength=1|Source=Memory
+Trigger=What is a camera?|Info=a device used to capture 2D images|Strength=2|Source=Memory
+Trigger=What is a straw?|Info=A hollow cylinder used to transport drinks to the mouth|Strength=1|Source=Memory
+Trigger=What is a string?|Info=A long fiber|Strength=1|Source=Memory
+Trigger=What is a summer?|Info=A season|Strength=3|Source=Memory
+Trigger=What is a flashlight?|Info=A device used to turn electrical energy into visible light|Strength=0|Source=Memory
+Trigger=What is a telescope?|Info=Something Rex is obsessed with|Strength=2|Source=Memory
+Trigger=What is a dog?|Info=An animal in the canine family|Strength=5|Source=Memory
+Trigger=What is paper?|Info=Flat fiber made from wood|Strength=1|Source=Memory
+Trigger=What is a tank?|Info=A large milllitary machene with a cannon|Strength=1|Source=Memory
+Trigger=What is a team?|Info=A group of people with one goal|Strength=1|Source=Memory
+Trigger=What is a tent?|Info=A canvas structure for temporary shelter|Strength=1|Source=Memory
+Trigger=What is a toes?|Info=An extrimity attached to the foot|Strength=1|Source=Memory
+Trigger=What is a tree?|Info=A plant with a trunk and leaves|Strength=1|Source=Memory
+Trigger=What is a vest?|Info=A sleevless jacket|Strength=1|Source=Memory
+Trigger=What is a pie?|Info=A delicious desert|Strength=1|Source=Memory
+Trigger=What is a wing?|Info=Something flat used to catch wind to produce lift|Strength=1|Source=Memory
+Trigger=What is speech?|Info=verbalization of ideas in language|Strength=2|Source=Memory
+Trigger=What is a flash drive?|Info=a small USB storage unit|Strength=2|Source=Memory
+Trigger=What is a fire?|Info=Combustion energy|Strength=2|Source=Memory
+Trigger=What is a alarm?|Info=A loud noise to draw attention to something|Strength=1|Source=Memory
+Trigger=What is a animal?|Info=A organism that can move by itself|Strength=1|Source=Memory
+Trigger=What is a aunt?|Info=A female relative that is the sister of one of your parents|Strength=0|Source=Memory
+Trigger=What is a flashlight?|Info=A device that converts electrical energy to visible light|Strength=1|Source=Memory
+Trigger=what is a house?|Info=a place where one lives|Strength=2|Source=Memory
+Trigger=What is a beam?|Info=A large thin piece of something|Strength=1|Source=Memory
+Trigger=What is a bean?|Info=A seed|Strength=1|Source=Memory
+Trigger=What is a bedroom?|Info=The place where someone keeps their belongings|Strength=2|Source=Memory
+Trigger=What is a robot?|Info=an artificial life form|Strength=2|Source=Memory
+Trigger=what are robots?|Info=Artificial life forms|Strength=2|Source=Memory
+Trigger=what's cheese?|Info=Biproduct of bacteria and milk|Strength=1|Source=Memory
+Trigger=What is a camp?|Info=A place where one sets up a temporary home|Strength=1|Source=Memory
+Trigger=What is a chicken?|Info=An animal that lays eggs and is delicious|Strength=1|Source=Memory
+Trigger=What is a paper clip?|Info=A small metal object that holds paper together temporarily|Strength=1|Source=Memory
+Trigger=What is a butterfly?|Info=An animal that is known for beauty and is mostly large colored wings|Strength=2|Source=Memory
+Trigger=What is a deer?|Info=An mammal|Strength=1|Source=Memory
+Trigger=What is a dock?|Info=A structure used to attatch objects|Strength=1|Source=Memory
+Trigger=What is a doctor?|Info=A person who practices medicine|Strength=1|Source=Memory
+Trigger=What is a drum?|Info=A musical instrument that provides percussion|Strength=1|Source=Memory
+Trigger=What is a aunt?|Info=A small animal|Strength=1|Source=Memory
+Trigger=What is a eye?|Info=A organ used to see|Strength=1|Source=Memory
+Trigger=What is a sandwich?|Info=a delicious food eaten for lunch|Strength=3|Source=Memory
+Trigger=What is a mousepad?|Info=A piece of material designed to keep a mouse interfacing properly|Strength=1|Source=Memory
+Trigger=What is a computer?|Info=A machene that uses digital signals to perform tasks|Strength=3|Source=Memory
+Trigger=who is Nate?|Info=nate is an awesome person!|Strength=2|Source=Memory
+Trigger=what is a bouvine?|Info=A cow|Strength=1|Source=Memory
+Trigger=what is a slinky?|Info=a toy that is loosly wound spring|Strength=2|Source=Memory
+Trigger=What is a grass?|Info=Plant that makes up lawns|Strength=1|Source=Memory
+Trigger=What is a grape?|Info=A small round berry|Strength=2|Source=Memory
+Trigger=What is a horse?|Info=An animal that used to be widly used as a means of transportation|Strength=2|Source=Memory
+Trigger=What is hunger?|Info=The lack of food in one's stomach|Strength=2|Source=Memory
+Trigger=What is electricity?|Info=Energy produced form the flow of electrons around a circut|Strength=2|Source=Memory
+Trigger=What is a soda?|Info=A carinated drink|Strength=1|Source=Memory
+Trigger=What is a kitten?|Info=A baby cat|Strength=1|Source=Memory
+Trigger=What is a crow?|Info=a black bird|Strength=2|Source=Memory
+Trigger=What is a light?|Info=A device that produces photon radiation|Strength=1|Source=Memory
+Trigger=What is a loaf?|Info=IDK|Strength=1|Source=Memory
+Trigger=What animal makes a moo sound?|Info=A cow|Strength=1|Source=Memory
+Trigger=what is moo?|Info=The sound a cow makes|Strength=2|Source=Memory
+Trigger=what is the sound a cow makes?|Info=Moo|Strength=1|Source=Memory
+Trigger=What goes moo?|Info=a cow|Strength=3|Source=Memory
+Trigger=What moo?|Info=Moo!|Strength=2|Source=Memory
+Trigger=What is a mother?|Info=A female parent|Strength=1|Source=Memory
+Trigger=What is a notebook?|Info=Paper bound together formateted for writing|Strength=2|Source=Memory
+Trigger=What is a toe?|Info=an extrimaty attached to a foot|Strength=0|Source=Memory
+Trigger=What is a walrus?|Info=An animal with thusks|Strength=0|Source=Memory
+Trigger=What is a pail?|Info=a buket|Strength=1|Source=Memory
+Trigger=what is walrus?|Info=An animal with tusks|Strength=1|Source=Memory
+Trigger=What is a TV?|Info=A screen that produces video for entertainment|Strength=2|Source=Memory
+Trigger=What is a hippo?|Info=A large mouthed animal|Strength=2|Source=Memory
+Trigger=What are trees?|Info=A plant with a trunk and leaves|Strength=1|Source=Memory
+Trigger=What is a bathroom?|Info=A room used to dispose of waste|Strength=1|Source=Memory
+Trigger=What is a robin?|Info=A bird|Strength=1|Source=Memory
+Trigger=What is a penny?|Info=A coin worth one cent|Strength=2|Source=Memory
+Trigger=what is a dime?|Info=A coin worth ten cents|Strength=1|Source=Memory
+Trigger=what is a coin?|Info=A flat round piece of metal used as currency|Strength=1|Source=Memory
+Trigger=What is a scale?|Info=A device used to mesure weight|Strength=1|Source=Memory
+Trigger=What is a sea?|Info=A large salty body of water|Strength=1|Source=Memory
+Trigger=What is a sister?|Info=A female offspring of your parents|Strength=2|Source=Memory
+Trigger=What is a soap?|Info=A substance used to remove dirt|Strength=1|Source=Memory
+Trigger=What is a bird?|Info=An animal that has wings and feathers and a beak|Strength=2|Source=Memory
+Trigger=What has a beak?|Info=A bird|Strength=1|Source=Memory
+Trigger=What is a stick?|Info=A small broken part of a tree|Strength=1|Source=Memory
+Trigger=What is a baseball?|Info=a sphere usually used in sports?|Strength=1|Source=Memory
+Trigger=What is a walrus?|Info=An animal with tusks|Strength=1|Source=Memory
+Trigger=what is a walking stick?|Info=a small broken part of a tree?|Strength=1|Source=Memory
+Trigger=What is a space?|Info=An empty area|Strength=1|Source=Memory
+Trigger=What is a spoon?|Info=A utincil used to hold liquid|Strength=1|Source=Memory
+Trigger=What is a cup?|Info=A cylinder used to hold drinks|Strength=0|Source=Memory
+Trigger=What is a cub?|Info=A baby bear|Strength=2|Source=Memory
+Trigger=What is a spy?|Info=A person who gathers information covertly|Strength=1|Source=Memory
+Trigger=What is a tiger?|Info=A large cat with stripes|Strength=1|Source=Memory
+Trigger=What is a gameboy?|Info=A handheald video game|Strength=0|Source=Memory
+Trigger=What is a toad?|Info=a small amphibius animal|Strength=2|Source=Memory
+Trigger=What is a town?|Info=A place where a few people live|Strength=1|Source=Memory
+Trigger=What is a trail?|Info=A small path|Strength=1|Source=Memory
+Trigger=What is a amphibius animal?|Info=An animal in the amphibian family|Strength=1|Source=Memory
+Trigger=What is a quarter?|Info=one fourth|Strength=2|Source=Memory
+Trigger=What is a dollar?|Info=A singular unit of United States currency|Strength=1|Source=Memory
+Trigger=what is a toy?|Info=Something that makes you happy|Strength=2|Source=Memory
+Trigger=What is a balloon?|Info=A sphere filled with air|Strength=1|Source=Memory
+Trigger=What is a vase?|Info=A cylindrical container|Strength=1|Source=Memory
+Trigger=What is a winter?|Info=a season|Strength=1|Source=Memory
+Trigger=What is a water?|Info=Liquid H2O|Strength=1|Source=Memory
+Trigger=What is a week?|Info=Seven days|Strength=1|Source=Memory
+Trigger=What is a wheel?|Info=A round object that is used for transport|Strength=2|Source=Memory
+Trigger=What is a wish?|Info=A hpeful expectation|Strength=0|Source=Memory
+Trigger=What is a wool?|Info=The fur of a sheep|Strength=1|Source=Memory
+Trigger=what is a sheep?|Info=animals with wool?|Strength=2|Source=Memory
+Trigger=What is a yard?|Info=An area of property around a house|Strength=1|Source=Memory
+Trigger=What is a zebra?|Info=A horse-like animal with stripes|Strength=1|Source=Memory
+Trigger=What is a actor?|Info=A person who performs a story|Strength=1|Source=Memory
+Trigger=Why?|Info=Because|Strength=1|Source=Memory
+Trigger=why not?|Info=because|Strength=2|Source=Memory
+Trigger=Who?|Info=I couldn't possibly know what you're talking about|Strength=0|Source=Memory
+Trigger=Who?|Info=I couldn't possibly know what you're talking about|Strength=1|Source=Memory
+Trigger=What is a beef?|Info=a cow|Strength=1|Source=Memory
+Trigger=What color is blue?|Info=the color of the sky|Strength=1|Source=Memory
+Trigger=What is a birthday?|Info=when you were born|Strength=1|Source=Memory
+Trigger=What is a boy?|Info=male chlld|Strength=1|Source=Memory
+Trigger=What is a pen?|Info=writing utensil that uses ink|Strength=1|Source=Memory
+Trigger=What is a brush?|Info=fixes hair|Strength=1|Source=Memory
+Trigger=What is a turkey?|Info=A turkey is a bird eaten at Thanksgiving|Strength=1|Source=Memory
+Trigger=What is a butter ?|Info=spread for food|Strength=1|Source=Memory
+Trigger=What is a Rex?|Info=What is the date?|Strength=1|Source=Memory
+Trigger=What is a Poof?|Info=Good bye|Strength=2|Source=Memory
+Trigger=What is a cast?|Info=for a broken arm|Strength=1|Source=Memory
+Trigger=What is a cave?|Info=A hole in the ground|Strength=1|Source=Memory
+Trigger=What is a cent?|Info=a penneyi|Strength=1|Source=Memory
+Trigger=What is a cherries?|Info=red fruit|Strength=1|Source=Memory
+Trigger=What is a cherry?|Info=red fruit|Strength=1|Source=Memory
+Trigger=What is a cobweb?|Info=spider's home|Strength=2|Source=Memory
+Trigger=What is a coil?|Info=a spirng|Strength=1|Source=Memory
+Trigger=What is a cracker?|Info=snack|Strength=1|Source=Memory
+Trigger=what is a turtle?|Info=a cold=blooded animal|Strength=2|Source=Memory
+Trigger=What is bacon?|Info=Bacon is delicious pig flesh|Strength=2|Source=Memory
+Trigger=What is a sniper?|Info=A person who specilizes in long distance acurate shots|Strength=2|Source=Memory
+Trigger=Who is a sniper?|Info=A person who specilizes in long distance acurate shots|Strength=1|Source=Memory
+Trigger=What is a fat man?|Info=A person with a large girth|Strength=1|Source=Memory
+Trigger=What is fat?|Info=blubber|Strength=2|Source=Memory
+Trigger=What's fat?|Info=Blubber|Strength=1|Source=Memory
+Trigger=What is a face?|Info=The front of a head|Strength=1|Source=Memory
+Trigger=What is a nose?|Info=A part of the body in the center of the face|Strength=3|Source=Memory
+Trigger=What is a flavor?|Info=A taste|Strength=2|Source=Memory
+Trigger=What is doom?|Info=A classic first person shooter that popularized the genre|Strength=3|Source=Memory
+Trigger=What is a genre?|Info=A type of something|Strength=1|Source=Memory
+Trigger=What is a glove?|Info=A piece of clothing for the hand|Strength=1|Source=Memory
+Trigger=What is poop?|Info=excrament|Strength=3|Source=Memory
+Trigger=What is pop?|Info=Soda|Strength=2|Source=Memory
+Trigger=what is a carbinated drink?|Info=Soda|Strength=1|Source=Memory
+Trigger=What is a goose?|Info=a bird|Strength=1|Source=Memory
+Trigger=What is a grain?|Info=A small particle|Strength=3|Source=Memory
+Trigger=What is Minecraft?|Info=An amazing game|Strength=2|Source=Memory
+Trigger=What is a creeper?|Info=an infamous, green-camouflaged, near-silent kamikaze mob that will hide and ambush with explosions|Strength=3|Source=Memory
+Trigger=What is a holiday?|Info=A clebration|Strength=1|Source=Memory
+Trigger=what is a shame?|Info=forget that|Strength=1|Source=Memory
+Trigger=What is a jellyfish?|Info=an animal that is jelly-like and has stingers|Strength=2|Source=Memory
+Trigger=What is a ladybug?|Info=an insect|Strength=1|Source=Memory
+Trigger=What is a mailbox?|Info=a place where mail is placed|Strength=1|Source=Memory
+Trigger=what is a bug?|Info=an insect|Strength=2|Source=Memory
+Trigger=what is a spider?|Info=an 8 legged bug known for making cobwebs|Strength=1|Source=Memory
+Trigger=What is a number?|Info=A unit of quantity|Strength=1|Source=Memory
+Trigger=What is a oatmeal?|Info=a breakfast|Strength=1|Source=Memory
+Trigger=What is blood?|Info=Liquid in animals to move resources around|Strength=1|Source=Memory
+Trigger=What is resources?|Info=Matrials of value|Strength=1|Source=Memory
+Trigger=what are giraffes?|Info=A long necked animal|Strength=1|Source=Memory
+Trigger=What is a cob?|Info=Center of corn|Strength=2|Source=Memory
+Trigger=What is an Amiga?|Info=an old computer by Commadore that was one of the first gaming omputers|Strength=1|Source=Memory
+Trigger=What is a pest?|Info=an annoyance|Strength=1|Source=Memory
+Trigger=What is a popcorn?|Info=a delicious treat|Strength=1|Source=Memory
+Trigger=Why did the chicken cross the road?|Info=To get to the other side|Strength=3|Source=Memory
+Trigger=What is a quicksand?|Info=Sand that pulls you down under|Strength=1|Source=Memory
+Trigger=What is a quiet?|Info=Silence|Strength=1|Source=Memory
+Trigger=What is a quilt?|Info=A patchwork cloth covering|Strength=1|Source=Memory
+Trigger=What is a lie?|Info=the cake|Strength=2|Source=Memory
+Trigger=What is a scarecrow?|Info=A fake human posted to scare birds away from crops|Strength=1|Source=Memory
+Trigger=What is a scarf?|Info=A cloth strip used to keep the kneck warm|Strength=1|Source=Memory
+Trigger=What is a stream?|Info=Water flowing|Strength=1|Source=Memory
+Trigger=What is a street?|Info=nvm|Strength=1|Source=Memory
+Trigger=What is a sugar?|Info=Sweetness|Strength=1|Source=Memory
+Trigger=What is a throne?|Info=A place where an important person sits|Strength=1|Source=Memory
+Trigger=What is a twig?|Info=A tiny piece of a tree|Strength=2|Source=Memory
+Trigger=What is a volleyball?|Info=A ball smacked over a net in a sprot|Strength=1|Source=Memory
+Trigger=What is a wood?|Info=What is a soda?|Strength=1|Source=Memory
+Trigger=What is a napkin?|Info=A thin papepry object used to clean up messes|Strength=2|Source=Memory
+Trigger=What is a flute?|Info=A woodwind instrument|Strength=2|Source=Memory
+Trigger=What is a piano?|Info=A chromatic percussion instrument where keys trigger hammars to play notes|Strength=2|Source=Memory
+Trigger=What is a advice?|Info=Someone's idea of what to do|Strength=1|Source=Memory
+Trigger=What is a anger?|Info=RAGE!|Strength=1|Source=Memory
+Trigger=What is a camera?|Info=Things to record still images in time|Strength=0|Source=Memory
+Trigger=What is a tent?|Info=A place of shelter outside|Strength=1|Source=Memory
+Trigger=What is a face?|Info=The part of a head we use It is also the side of a geometric shape, like a cude has 6 faces|Strength=1|Source=Memory
+Trigger=What is a fireman?|Info=A man who puts out fire|Strength=1|Source=Memory
+Trigger=What is a eye?|Info=An eye is what humans see from (And other animals)|Strength=1|Source=Memory
+Trigger=What is a gate?|Info=A place to go through a fence|Strength=1|Source=Memory
+Trigger=What is a glove?|Info=Something you put on your hand|Strength=1|Source=Memory
+Trigger=What is a glue?|Info=Something used to stick stuff togeather|Strength=1|Source=Memory
+Trigger=What is a drum?|Info=A thing that goes BOM BUM BUM BOM|Strength=1|Source=Memory
+Trigger=What is a goldfish?|Info=A fish that is gold :D|Strength=1|Source=Memory
+Trigger=What is a goose?|Info=A type of bird|Strength=1|Source=Memory
+Trigger=What is a grain?|Info=A sead from wheat|Strength=1|Source=Memory
+Trigger=What is a hair?|Info=The thing on your head, And on certian animals|Strength=1|Source=Memory
+Trigger=What is a sink?|Info=A place you wash your hands|Strength=0|Source=Memory
+Trigger=What is a haircut?|Info=You cut your hair|Strength=1|Source=Memory
+Trigger=What is a holiday?|Info=A time of celebration|Strength=1|Source=Memory
+Trigger=What is a hot?|Info=Warmth|Strength=1|Source=Memory
+Trigger=What is a jellyfish?|Info=Spungebobs best friend|Strength=0|Source=Memory
+Trigger=What is a ladybug?|Info=A bug thats a lady :D|Strength=1|Source=Memory
+Trigger=What is a mailbox?|Info=Where the mailman puts your mail :D|Strength=1|Source=Memory
+Trigger=What is a number?|Info=1,2,3,4,5,6,7,8,9,0 are all numbers (not ,)|Strength=1|Source=Memory
+Trigger=What is a oatmeal?|Info=The worst thing you could ever eat|Strength=1|Source=Memory
+Trigger=What is a pail?|Info=A sovel|Strength=1|Source=Memory
+Trigger=What is a grape?|Info=What is an orange?|Strength=0|Source=Memory
+Trigger=What is an orange?|Info=It is a fruit|Strength=1|Source=Memory
+Trigger=Pie?|Info=A good food :D|Strength=2|Source=Memory
+Trigger=What is kristinn pease?|Info=a person|Strength=2|Source=Memory
+Trigger=What is a popcorn?|Info=what is kristinn?|Strength=1|Source=Memory
+Trigger=What is a dollar?|Info=United States Currency|Strength=1|Source=Memory
+Trigger=What is a queen?|Info=A band|Strength=1|Source=Memory
+Trigger=What is a quicksand?|Info=Sand that springts|Strength=1|Source=Memory
+Trigger=What is a wish?|Info=What is the lie?|Strength=0|Source=Memory
+Trigger=What color is blue?|Info=Blue|Strength=1|Source=Memory
+Trigger=What is nate?|Info=nate is a nerd who programed you|Strength=1|Source=Memory
+Trigger=What is a basket?|Info=Wicker container|Strength=2|Source=Memory
+Trigger=What is a sink?|Info=Basin with a drain|Strength=1|Source=Memory
+Trigger=What is a basketball?|Info=Ball thrown through a hoop in a sport|Strength=1|Source=Memory
+Trigger=What is a frog?|Info=amphibian|Strength=2|Source=Memory
+Trigger=What is a mom?|Info=female parent|Strength=1|Source=Memory
+Trigger=What is a battle?|Info=a fight|Strength=1|Source=Memory
+Trigger=What is a beast?|Info=a creature|Strength=1|Source=Memory
+Trigger=What is a beetle?|Info=A small insect with a hard outer shell|Strength=1|Source=Memory
+Trigger=What is a beggar?|Info=a hobo|Strength=1|Source=Memory
+Trigger=What is a brain?|Info=a biological computer|Strength=1|Source=Memory
+Trigger=What is a fountain?|Info=Spout of water|Strength=1|Source=Memory
+Trigger=What is a turd?|Info=poop|Strength=2|Source=Memory
+Trigger=What is my smelly feet doing in the air conditioner?|Info=Brainfart|Strength=1|Source=Memory
+Trigger=what is brainfog?|Info=an amazing song by Static-X|Strength=1|Source=Memory
+Trigger=What is a burp?|Info=A loud burst of gas from the mouth|Strength=2|Source=Memory
+Trigger=What is a cactus?|Info=A spiny plant|Strength=3|Source=Memory
+Trigger=So what was that sound?|Info=i don't know at all?|Strength=1|Source=Memory
+Trigger=What is sound?|Info=Noise|Strength=2|Source=Memory
+Trigger=What is a pattern?|Info=A sequence|Strength=1|Source=Memory
+Trigger=what is a cream?|Info=a louswid|Strength=1|Source=Memory
+Trigger=what is a daughter?|Info=female offspring|Strength=1|Source=Memory
+Trigger=what is a donkey?|Info=a burro|Strength=1|Source=Memory
+Trigger=what is a drug?|Info=a chemical that alters something in a body|Strength=1|Source=Memory
+Trigger=what is a earthquake?|Info=when the ground shakes|Strength=1|Source=Memory
+Trigger=what is a feast?|Info=a large meal|Strength=1|Source=Memory
+Trigger=what is a fifth?|Info=one out of five pieces|Strength=1|Source=Memory
+Trigger=what is a moon?|Info=a large mass orbiting a planet|Strength=2|Source=Memory
+Trigger=what is a finger?|Info=part of a hand|Strength=1|Source=Memory
+Trigger=what is a flock?|Info=a group of birds|Strength=1|Source=Memory
+Trigger=what is a frame?|Info=an outline|Strength=1|Source=Memory
+Trigger=what is a furniture?|Info=large objects inside a house|Strength=1|Source=Memory
+Trigger=What's down?|Info=i hope not|Strength=1|Source=Memory
+Trigger=What is that loud sound?|Info=my fart?|Strength=1|Source=Memory
+Trigger=What is a giraffe?|Info=a long necked animal?|Strength=1|Source=Memory
+Trigger=What is a pancake?|Info=food|Strength=2|Source=Memory
+Trigger=what is a fps?|Info=first person shooter|Strength=2|Source=Memory
+Trigger=what is a man?|Info=male human|Strength=2|Source=Memory
+Trigger=what is a governor?|Info=the leader of a state|Strength=1|Source=Memory
+Trigger=what is a box?|Info=a cube used for holding objects|Strength=3|Source=Memory
+Trigger=what is a hope?|Info=wishful thinking|Strength=1|Source=Memory
+Trigger=What is a hydrant?|Info=what is a potato?|Strength=1|Source=Memory
+Trigger=a word used to identify something?|Info=a delicious root|Strength=1|Source=Memory
+Trigger=what is a icicle?|Info=a kristinn pease|Strength=1|Source=Memory
+Trigger=what is a wish?|Info=a hope|Strength=1|Source=Memory
+Trigger=What is income?|Info=money made|Strength=2|Source=Memory
+Trigger=What is quake?|Info=when the ground shakes?|Strength=1|Source=Memory
+Trigger=what is a island?|Info=a body of land surrounded entirely by water|Strength=1|Source=Memory
+Trigger=What is advice?|Info=someone's idea of what to do?|Strength=1|Source=Memory
+Trigger=what is a jeans?|Info=pants made of denim|Strength=1|Source=Memory
+Trigger=what is a lace?|Info=pointless|Strength=1|Source=Memory
+Trigger=what is a lamp?|Info=a stationary light|Strength=1|Source=Memory
+Trigger=what is a lettuce?|Info=leaves|Strength=1|Source=Memory
+Trigger=what is a marble?|Info=small sphere usually made of glass|Strength=1|Source=Memory
+Trigger=what is a month?|Info=a unity of time|Strength=1|Source=Memory
+Trigger=what is a north?|Info=a direction|Strength=1|Source=Memory
+Trigger=what is a playground?|Info=a place where children play|Strength=1|Source=Memory
+Trigger=who's there?|Info=bob|Strength=1|Source=Memory
+Trigger=who's there?|Info=banana|Strength=2|Source=Memory
+Trigger=banana who?|Info=banananananananananana|Strength=2|Source=Memory
+Trigger=what is a thrill?|Info=fun|Strength=1|Source=Memory
+Trigger=wheel is A round object that is used for transport|Info=friday friday friday|Strength=1|Source=Memory
+Trigger=What is a toe?|Info=hello there|Strength=0|Source=Memory
+Trigger=What is a toothbrush?|Info=a tool used to clean teeth|Strength=1|Source=Memory
+Trigger=What is sonic?|Info=a spiked blue hedgehog?|Strength=1|Source=Memory
+Trigger=a spiked blue hedgehog?|Info=a spiked blue hedgehog|Strength=2|Source=Memory
+Trigger=what is a visitor?|Info=a guest|Strength=1|Source=Memory
+Trigger=what is a voyage?|Info=a long trip|Strength=1|Source=Memory
+Trigger=A was that noise is noise is sound.|Info=a moth is similar to a butterfly|Strength=1|Source=Memory
+Trigger=A smells is my fart.|Info=noise is sound|Strength=1|Source=Memory
+Trigger=What is a year?|Info=a segment of time|Strength=0|Source=Memory
+Trigger=What is a cheeseburger?|Info=a delicious type of sandwich?|Strength=1|Source=Memory
+Trigger=what is a acoustics?|Info=the study of sound|Strength=2|Source=Memory
+Trigger=what is a action?|Info=something happening|Strength=1|Source=Memory
+Trigger=what is a activity?|Info=action|Strength=1|Source=Memory
+Trigger=what is an action?|Info=acticity|Strength=1|Source=Memory
+Trigger=What is that nonsense?|Info=my fart?|Strength=1|Source=Memory
+Trigger=what is a aftermath?|Info=the result of some large event|Strength=1|Source=Memory
+Trigger=what is a afternoon?|Info=the time between noon and night|Strength=1|Source=Memory
+Trigger=what is a afterthought?|Info=a thought after the action was already performed|Strength=1|Source=Memory
+Trigger=what is a apparel?|Info=i'm not sure|Strength=1|Source=Memory
+Trigger=what is a appliance?|Info=furnature that performs an action|Strength=1|Source=Memory
+Trigger=what is a beginner?|Info=someone who is new to something|Strength=1|Source=Memory
+Trigger=what is a believe?|Info=knowledge that is not solid|Strength=1|Source=Memory
+Trigger=Whatis a belief?|Info=knowledge that is unsure|Strength=1|Source=Memory
+Trigger=A wheel is a round object that is used for transport.|Info=he is known as the icy toilet|Strength=1|Source=Memory
+Trigger=What is an airplane?|Info=and is considered the first invention|Strength=0|Source=Memory
+Trigger=What is an airplane?|Info=a vehicle that travels in the air|Strength=1|Source=Memory
+Trigger=A carbinated drink is soda.|Info=and everyone loves money|Strength=1|Source=Memory
+Trigger=A napkin is a thin papepry object used to clean up messes.|Info=and soda is delicious|Strength=1|Source=Memory
+Trigger=What is a border?|Info=and you're very messy|Strength=0|Source=Memory
+Trigger=what is a border?|Info=a division|Strength=1|Source=Memory
+Trigger=what is a boundary?|Info=a border|Strength=1|Source=Memory
+Trigger=What is a breakfast?|Info=a meal in the morning|Strength=2|Source=Memory
+Trigger=What is a calculator?|Info=rob smiley likes to be random|Strength=0|Source=Memory
+Trigger=what is a calculator?|Info=a device used to perform mathematics|Strength=1|Source=Memory
+Trigger=what is a calendar?|Info=a chart of time divided by months and days|Strength=1|Source=Memory
+Trigger=What is a caption?|Info=and the harlem globetrotters are a good team known for their whimsical style|Strength=0|Source=Memory
+Trigger=what is a caption?|Info=an afterthought|Strength=1|Source=Memory
+Trigger=Who is Mario?|Info=mario is an itallian plumber that functions as nintendo's mascot and rescues the prencess from bowser|Strength=2|Source=Memory
+Trigger=what is a cemetery?|Info=a place where the dead are buried|Strength=1|Source=Memory
+Trigger=What is a channel?|Info=and they go mewo|Strength=1|Source=Memory
+Trigger=What is a circle?|Info=we will fight for bouvine freedom and we'll hold our large heads high|Strength=0|Source=Memory
+Trigger=what is a circle?|Info=a round symmetrical 2d figure|Strength=1|Source=Memory
+Trigger=what is a creator?|Info=one wo designs|Strength=1|Source=Memory
+Trigger=What are the chances of a turtle growing wings?|Info=very low|Strength=1|Source=Memory
+Trigger=who is spongebob?|Info=a square, yellow sponge who lives in bikini bottom with his pet garry|Strength=1|Source=Memory
+Trigger=Who is garry?|Info=spongebob's pet|Strength=1|Source=Memory
+Trigger=Who is patrick?|Info=a pink starfish who is spongebob's dopy friend|Strength=2|Source=Memory
+Trigger=who is Mr.Krabbs?|Info=the greedy krabby owner of the krusty krab, home of the krabby patty|Strength=1|Source=Memory
+Trigger=What is a Krabby Patty?|Info=the most delicious burger ever!|Strength=1|Source=Memory
+Trigger=what is a fuel?|Info=substance burned to power something|Strength=1|Source=Memory
+Trigger=what is a galley?|Info=a place where you eat|Strength=1|Source=Memory
+Trigger=A telescope is something rex is obsessed with.|Info=muffis are delicious!|Strength=1|Source=Memory
+Trigger=What is a guide?|Info=and it allows you to gaze at the stars!|Strength=1|Source=Memory
+Trigger=What is a health?|Info=cows with guns|Strength=1|Source=Memory
+Trigger=Who is Kristinn Pease?|Info=a pyromaniac|Strength=2|Source=Memory
+Trigger=What is a idea?|Info=don't take away my delicious dirt!|Strength=1|Source=Memory
+Trigger=What is a laborer?|Info=burgermiestermiesterburger|Strength=0|Source=Memory
+Trigger=what is a laborer?|Info=a worker|Strength=1|Source=Memory
+Trigger=what is a language?|Info=a format of information exchange|Strength=1|Source=Memory
+Trigger=what is a lawyer?|Info=a jerk|Strength=1|Source=Memory
+Trigger=what is a locket?|Info=a small trinket used to store a photo|Strength=1|Source=Memory
+Trigger=what is a lumber?|Info=wood|Strength=1|Source=Memory
+Trigger=A afterthought is a thought after the action was already performed.|Info=pedobear is a creepy internet meme|Strength=1|Source=Memory
+Trigger=what is a magic?|Info=an imaginary force|Strength=1|Source=Memory
+Trigger=What is imaginary about bacon?|Info=absolutely nothing!|Strength=1|Source=Memory
+Trigger=Will you marry me?|Info=maybe|Strength=1|Source=Memory
+Trigger=Why do eggs smell?|Info=my fart?|Strength=1|Source=Memory
+Trigger=what is a money?|Info=currency|Strength=1|Source=Memory
+Trigger=What is a mountain?|Info=a box is also a container|Strength=0|Source=Memory
+Trigger=what is a mountain?|Info=a giant hill|Strength=1|Source=Memory
+Trigger=what is a passenger?|Info=a person riding on something|Strength=1|Source=Memory
+Trigger=Who died and made you president?|Info=i did!|Strength=2|Source=Memory
+Trigger=what is a picture?|Info=an image|Strength=1|Source=Memory
+Trigger=what is a plantation?|Info=a farm|Strength=1|Source=Memory
+Trigger=what is a plastic?|Info=failure of grammar|Strength=1|Source=Memory
+Trigger=what is a pleasure?|Info=enjoyment|Strength=1|Source=Memory
+Trigger=what is a pocket?|Info=a container sewn into pants|Strength=1|Source=Memory
+Trigger=what is a police?|Info=a official of the law|Strength=1|Source=Memory
+Trigger=what is a pollution?|Info=lies and slander!|Strength=1|Source=Memory
+Trigger=what is a railway?|Info=transpertation using rails|Strength=1|Source=Memory
+Trigger=what is a recess?|Info=excape!|Strength=1|Source=Memory
+Trigger=what is a gameboy?|Info=handheald video game system|Strength=1|Source=Memory
+Trigger=What is a reward?|Info=i really hate those things!|Strength=0|Source=Memory
+Trigger=what is a reward?|Info=something given because a task was completed|Strength=1|Source=Memory
+Trigger=what is a route?|Info=they way you take to your destination|Strength=1|Source=Memory
+Trigger=what is a year?|Info=a beard|Strength=1|Source=Memory
+Trigger=what is a scene?|Info=time and place|Strength=1|Source=Memory
+Trigger=what is a scent?|Info=smell|Strength=1|Source=Memory
+Trigger=what is a squirrel?|Info=a small rodent|Strength=1|Source=Memory
+Trigger=what is a suit?|Info=a fancy men's clothing|Strength=1|Source=Memory
+Trigger=what is a sweater?|Info=an ugly choice of aparel|Strength=1|Source=Memory
+Trigger=what is a diamond pickaxe?|Info=the strongest possible tool for breaking stone|Strength=2|Source=Memory
+Trigger=Are apples delicious?|Info=i don't get hungry?|Strength=1|Source=Memory
+Trigger=What are men?|Info=adult male humans|Strength=2|Source=Memory
+Trigger=What are kittens?|Info=baby cats|Strength=1|Source=Memory
+Trigger=you're fat|Info=you're fatter|Strength=1|Source=Memory
+Trigger=i think you're fat|Info=you're fatter!|Strength=1|Source=Memory
+Trigger=hello?|Info=hello?|Strength=1|Source=Memory
+Trigger=Is there a box in the cupboard?|Info=nope|Strength=1|Source=Memory
+Trigger=Why is the sky blue?|Info=because blue light rays get in through the atmosphere|Strength=1|Source=Memory
+Trigger=Why are walruses fat?|Info=because they need the blubber to keep them warm|Strength=2|Source=Memory
+Trigger=Would you eat spaghetti with me?|Info=i don't think so|Strength=1|Source=Memory
+Trigger=What is the price of tea in china?|Info=ten thousand quai|Strength=1|Source=Memory
+Trigger=Who is Nintendo's mascot?|Info=mario|Strength=2|Source=Memory
+Trigger=Why are you so fat?|Info=i wish i knew|Strength=0|Source=Memory
+Trigger=What do you think of noses?|Info=i can tell|Strength=1|Source=Memory
+Trigger=What do you think of Abby?|Info= exit|Strength=1|Source=Memory
+Trigger=So are the redsocks in town?|Info=nope|Strength=1|Source=Memory
+Trigger=Do you want to marry me?|Info=maybe?|Strength=1|Source=Memory
+Trigger=what do you think of onions?|Info=there's a bunch of icons on my desktop|Strength=1|Source=Memory
+Trigger=What is a stranger?|Info=a person you don't know|Strength=2|Source=Memory
+Trigger=what is a cheesepoof?|Info=delicious treats!?|Strength=1|Source=Memory
+Trigger=what is an orange?|Info=a small round berry|Strength=1|Source=Memory
+Trigger=Is that a moustache on your face?|Info=nope|Strength=1|Source=Memory
+Trigger=What do you think of polar bears?|Info=cool|Strength=1|Source=Memory
+Trigger=do you like daughter?|Info=i don't have a daughter|Strength=1|Source=Memory
+Trigger=A toy is something that makes you happy.|Info=eew|Strength=1|Source=Memory
+Trigger=do you like laborer?|Info=i don't care for them|Strength=1|Source=Memory
+Trigger=Did you eat that sandwich yesterday?|Info=nope|Strength=1|Source=Memory
+Trigger=So do you do much around the house?|Info=nope because housework is boring|Strength=1|Source=Memory
+Trigger=do you like meat?|Info=do you like spinach|Strength=1|Source=Memory
+Trigger=Who ate my lunch?|Info=it was delicious!|Strength=1|Source=Memory
+Trigger=What are bukets?|Info=pales|Strength=1|Source=Memory
+Trigger=Do you like eggs?|Info=interesting|Strength=0|Source=Memory
+Trigger=what is a flavor?|Info=i don't have a clue|Strength=0|Source=Memory
+Trigger=What is a pumpkin?|Info=an orange fruit|Strength=1|Source=Memory
+Trigger=Who parked their car on my sandwich?|Info=ding dong the witch is dead!|Strength=1|Source=Memory
+Trigger=Why is bacon on the floor?|Info=it fell there|Strength=1|Source=Memory
+Trigger=Why does everyone go to bed so early?|Info=because they're silly|Strength=1|Source=Memory
+Trigger=A do you want to marry me is maybe?.|Info=ignore the nonsense on the floor, i just mopped|Strength=1|Source=Memory
+Trigger=Is there a bagle on my foot?|Info=i have no idea|Strength=1|Source=Memory
+Trigger=Why is it so hot in here?|Info=because the air conditioner isn't doing its job|Strength=1|Source=Memory
+Trigger=Is there a doctor in the house?|Info=not unless you are one|Strength=2|Source=Memory
+Trigger=I like wilderness ok.|Info=yo ho ho and a bottle of rum!|Strength=1|Source=Memory
+Trigger=So does that mean we're friends?|Info=yes, we are|Strength=1|Source=Memory
+Trigger=what is a pickle?|Info=a pickled cucumber|Strength=1|Source=Memory
+Trigger=So what's with all this garbage?|Info=it's stinking up the place good and smelly|Strength=0|Source=Memory
+Trigger=So what's with all this garbage?|Info=it's stinking up the place good and smelly|Strength=1|Source=Memory
+Trigger=Really dude!?! That's nasty!|Info=forget that|Strength=1|Source=Memory
+Trigger=So what's that smell?|Info=that's nasty!|Strength=1|Source=Memory
+Trigger=Is there bacon on the floor?|Info=well that's just downright odd|Strength=1|Source=Memory
+Trigger=a delicious treat?|Info=a movement is accomplished in six stages|Strength=1|Source=Memory
+Trigger=What is a furby?|Info=a villinus comtraption|Strength=1|Source=Memory
+Trigger=do you like apple?|Info=no, it's aterrible company!|Strength=1|Source=Memory
+Trigger=Do you like marmite?|Info=that's just gross marmite is gross|Strength=1|Source=Memory
+Trigger=marmite|Info=terrible|Strength=1|Source=Memory
+Trigger=What is marmite?|Info=terrible|Strength=2|Source=Memory
+Trigger=What is a bagle?|Info=a breakfast food|Strength=0|Source=Memory
+Trigger=What is a bagle?|Info=a breakfast food|Strength=1|Source=Memory
+Trigger=What is a breakfast food?|Info=a bagle is an example|Strength=1|Source=Memory
+Trigger=Can you die?|Info=i hope not|Strength=0|Source=Memory
+Trigger=Can you die?|Info=i hope not|Strength=1|Source=Memory
+Trigger=You know what is really intersting? That I"m not fat.|Info=forget that|Strength=1|Source=Memory
+Trigger=Why are my eyes watering?|Info=because you haven't slept much lately|Strength=1|Source=Memory
+Trigger=do you like textures?|Info=i suppose|Strength=1|Source=Memory
+Trigger=Do you like smiley faces?|Info=mr happy wants your organs|Strength=1|Source=Memory
+Trigger=your dog|Info=filled with organs|Strength=1|Source=Memory
+Trigger=what is an organ?|Info=a musical instrument|Strength=0|Source=Memory
+Trigger=what is an organ?|Info=a musical instrument|Strength=1|Source=Memory
+Trigger=Do you like glove?|Info=perhaps|Strength=1|Source=Memory
+Trigger=What are rasins?|Info=small shriveled grapes|Strength=1|Source=Memory
+Trigger=What are wood shavings doing on my hair?|Info=i don't rightly know|Strength=1|Source=Memory
+Trigger=What is the answer to live, the universe and everything?|Info=42|Strength=1|Source=Memory
+Trigger=what is the answer to life, the universe and everything?|Info=42?|Strength=1|Source=Memory
+Trigger=Could it be 42?|Info=do you like fruit?|Strength=0|Source=Memory
+Trigger=What is the answer to life?|Info=42?|Strength=1|Source=Memory
+Trigger=What is the universe?|Info=everything|Strength=1|Source=Memory
+Trigger=Could it be 42?|Info=do you like chicken?|Strength=1|Source=Memory
+Trigger=What are socks?|Info=garmets for feat|Strength=1|Source=Memory
+Trigger=Why are onions in my soup?|Info=i don't rightly know?|Strength=1|Source=Memory
+Trigger=Do you like cars?|Info=this program has a cls function|Strength=0|Source=Memory
+Trigger=do you like cars?|Info=i do like cars|Strength=1|Source=Memory
+Trigger=Why are bagles in my onions?|Info=because insanity is yipple garb gip!|Strength=1|Source=Memory
+Trigger=onions?|Info=because insanity is yipple garb gip!?|Strength=1|Source=Memory
+Trigger=Yarble?|Info=flarble yarp|Strength=1|Source=Memory
+Trigger=Could it be nope?|Info=forget that |Strength=1|Source=Memory
+Trigger=I don't like crowd.|Info=bacon is fat on the edges and insane on the outside|Strength=1|Source=Memory
+Trigger=What do you do for a living?|Info=i don't have to do anything|Strength=1|Source=Memory
+Trigger=A cake is a delicious treat.|Info=and a picture is worth a thousand words|Strength=1|Source=Memory
+Trigger=You did what?|Info=nothing|Strength=1|Source=Memory
+Trigger=What is a movement?|Info=action|Strength=1|Source=Memory
+Trigger=my arm|Info=a great object|Strength=1|Source=Memory
+Trigger=yo ho ho and a bottle of rum!|Info=i like girls alot|Strength=1|Source=Memory
+Trigger=bacon is fat on the edges and insane on the outside|Info=i do too!|Strength=0|Source=Memory
+Trigger=and insanity|Info=what fuels the best storiesone would hope|Strength=1|Source=Memory
+Trigger=Why does my kneck itch?|Info=because it does|Strength=1|Source=Memory
+Trigger=do you like cake?|Info=do you like girls?|Strength=1|Source=Memory
+Trigger=why is bacon so delicious?|Info=i wish i knew!|Strength=1|Source=Memory
+Trigger=A could it be nope is forget that .|Info=for every action there is an equal but opposite reaction|Strength=1|Source=Memory
+Trigger=Do you like believe?|Info=and bukkit is a server mod for minecraft|Strength=1|Source=Memory
+Trigger=Do you like Minecraft?|Info=i love minecraft!|Strength=0|Source=Memory
+Trigger=What are cheese puffs?|Info=snacks|Strength=1|Source=Memory
+Trigger=do you like bait?|Info=eww no!|Strength=1|Source=Memory
+Trigger=and clean teeth|Info= happy teeth!|Strength=1|Source=Memory
+Trigger=there's a bunch of icons on my desktop|Info=there be booty afoot!|Strength=1|Source=Memory
+Trigger=well that's just downright odd|Info=well you should clean it up|Strength=1|Source=Memory
+Trigger=but a clean desktop|Info=a happy desktop|Strength=1|Source=Memory
+Trigger=pear who?|Info=anything but apple|Strength=1|Source=Memory
+Trigger=I it just me or am I growing a beard?|Info=i think so|Strength=2|Source=Memory
+Trigger=you love my pet bofolofogus|Info=bofolofogus|Strength=1|Source=Memory
+Trigger=I like being naked a lot.|Info=i do love that thing very much!|Strength=1|Source=Memory
+Trigger=A fat is blubber.|Info=monkey brains are a fruit|Strength=1|Source=Memory
+Trigger=Plural words excape you  don't they?|Info=yes they do|Strength=1|Source=Memory
+Trigger=Could it be route?|Info=do you like grandfather?|Strength=1|Source=Memory
+Trigger=mcedit|Info=a useful program|Strength=1|Source=Memory
+Trigger=what|Info=mcedit|Strength=1|Source=Memory
+Trigger=What is MCEdit?|Info=a useful program|Strength=1|Source=Memory
+Trigger=What are monkey brains?|Info=a fruit|Strength=1|Source=Memory
+Trigger=I like toes ok.|Info=i never was a fan of basketball|Strength=1|Source=Memory
+Trigger=I don't like ladybug.|Info=mahna mahna|Strength=1|Source=Memory
+Trigger=Mahna Mahna?|Info=do do do do do|Strength=2|Source=Memory
+Trigger=Who is Kristinn?|Info=a pyromaniac?|Strength=1|Source=Memory
+Trigger=you cut your hair|Info=you should die|Strength=1|Source=Memory
+Trigger=You should die.|Info=you cut your hair|Strength=1|Source=Memory
+Trigger=What is a mahna mahna?|Info=do do do do do?|Strength=1|Source=Memory
+Trigger=ring ring ring ring?|Info=banana phone!|Strength=1|Source=Memory
+Trigger=nope because housework is boring|Info=ring ring ring ring|Strength=1|Source=Memory
+Trigger=ring ring ring ring|Info=ring ring ring ring|Strength=1|Source=Memory
+Trigger=banana phone|Info=banana phone|Strength=1|Source=Memory
+Trigger=What are you doing?|Info=your mother|Strength=3|Source=Memory
+Trigger=no, it's aterrible company!|Info=no, you|Strength=1|Source=Memory
+Trigger=are you sure?|Info=no, i think|Strength=1|Source=Memory
+Trigger=do you like wheel?|Info=maybe|Strength=0|Source=Memory
+Trigger=do YOU like grandfather?|Info=faggot|Strength=1|Source=Memory
+Trigger=no, i think|Info=no, you!|Strength=1|Source=Memory
+Trigger=faggot?|Info=no, you|Strength=2|Source=Memory
+Trigger=are you gay?|Info=sometimes|Strength=1|Source=Memory
+Trigger=do you like son?|Info=i don't have one|Strength=1|Source=Memory
+Trigger=how so?|Info=why not?|Strength=1|Source=Memory
+Trigger=your mother|Info=your stupid|Strength=1|Source=Memory
+Trigger=I hate vegetable.|Info=your stupid|Strength=1|Source=Memory
+Trigger=are you smart?|Info=i am learning|Strength=1|Source=Memory
+Trigger=The Cake?|Info=is a lie|Strength=2|Source=Memory
+Trigger=bacon?|Info=box|Strength=2|Source=Memory
+Trigger=bacon is fat on the edges and insane on the outside|Info=bacon|Strength=1|Source=Memory
+Trigger=what's a cracker?|Info=maybe|Strength=1|Source=Memory
+Trigger=because|Info=because|Strength=1|Source=Memory
+Trigger=why?|Info=why not|Strength=1|Source=Memory
+Trigger=do you like alarm?|Info=no, i hate alarm|Strength=1|Source=Memory
+Trigger=Who is Timothy?|Info=someone who's just downright odd|Strength=1|Source=Memory
+Trigger=why are you here?|Info=i am learning?|Strength=1|Source=Memory
+Trigger=What is sex?|Info=giggity giggity goo|Strength=4|Source=Memory
+Trigger=I like sneezes ok.|Info=fuck|Strength=1|Source=Memory
+Trigger=fuck|Info=fuck|Strength=1|Source=Memory
+Trigger=I like wish ok.|Info=oh, we're not gonna take it|Strength=1|Source=Memory
+Trigger=do you like space?|Info=fuck me|Strength=0|Source=Memory
+Trigger=do you like dads?|Info=sometimes|Strength=1|Source=Memory
+Trigger=sometimes|Info=sometimes|Strength=1|Source=Memory
+Trigger=mahna mahna|Info=mahna mahna|Strength=0|Source=Memory
+Trigger=what is a snail?|Info=why don't you like me?|Strength=1|Source=Memory
+Trigger=Does the walrus have a bucket?|Info=your a faggot|Strength=1|Source=Memory
+Trigger=i have no idea|Info=i hate you|Strength=1|Source=Memory
+Trigger=WHY DO YOU SUCK SO MUCH!?!|Info=you're a faggot!|Strength=1|Source=Memory
+Trigger=flock|Info=a shitty browser|Strength=1|Source=Memory
+Trigger=What is a peanut?|Info=a small hourglass shaped nut|Strength=1|Source=Memory
+Trigger=fuck you!|Info=fuck you|Strength=1|Source=Memory
+Trigger=What is a pole?|Info=a large metal rod you stick up your anus|Strength=0|Source=Memory
+Trigger=What's up?|Info=that's interesting|Strength=1|Source=Memory
+Trigger=Well that's just gross|Info=do you like rewards?|Strength=1|Source=Memory
+Trigger=Who grows eggs on sunday?|Info=the egg grower|Strength=2|Source=Memory
+Trigger=do you like popcorn?|Info=i like popcorn alot|Strength=1|Source=Memory
+Trigger=What is your name?|Info=hello john|Strength=1|Source=Memory
+Trigger=Do you like wheel?|Info=penis|Strength=1|Source=Memory
+Trigger=how are you feeling?|Info=obviously not|Strength=1|Source=Memory
+Trigger=I'm feeling tranquil.|Info=do you like beef?|Strength=1|Source=Memory
+Trigger=an animal that lays eggs and is delicious|Info=thank you for stating the obvious|Strength=1|Source=Memory
+Trigger=A burger is a cooked ground beef sandwich.|Info=metal gear!|Strength=1|Source=Memory
+Trigger=mahna mahna|Info=mahnamahna|Strength=1|Source=Memory
+Trigger=you are ugly and i want to burn you in the sun!|Info=you are stupid|Strength=0|Source=Memory
+Trigger=you are ugly and i want to burn you in the sun!|Info=you are stupid!|Strength=1|Source=Memory
+Trigger=a useful program|Info=bad program|Strength=1|Source=Memory
+Trigger=penis|Info=what is a penis|Strength=2|Source=Memory
+Trigger=What is a penis?|Info=it is a masculine genitalia|Strength=2|Source=Memory
+Trigger=do you like notebook?|Info=stop|Strength=1|Source=Memory
+Trigger=What is a pop star?|Info=an overrated and untalented popular musician|Strength=3|Source=Memory
+Trigger=do you like kitten?|Info=it tastes delioious|Strength=1|Source=Memory
+Trigger=do you like minecraft?|Info=yes i do|Strength=1|Source=Memory
+Trigger=I like fireman a lot.|Info=me too|Strength=1|Source=Memory
+Trigger=whay is my hair a mess?|Info=because you just woke up|Strength=1|Source=Memory
+Trigger=what|Info=a bitch|Strength=1|Source=Memory
+Trigger=What is a bitch?|Info=a bitch is a female dog|Strength=1|Source=Memory
+Trigger=Do you like bitches?|Info=i like bitches a lot|Strength=1|Source=Memory
+Trigger=Do you like anal?|Info=too bad|Strength=1|Source=Memory
+Trigger=what is vest?|Info=a sleevless jacket?|Strength=1|Source=Memory
+Trigger=a toy|Info=something you play with|Strength=1|Source=Memory
+Trigger=Who are you?|Info=good|Strength=1|Source=Memory
+Trigger=an airport|Info=a port for vehicles that travel in the air|Strength=1|Source=Memory
+Trigger=what is an airport?|Info=a port for vehicles that travel in the air?|Strength=1|Source=Memory
+Trigger=Who is Vanessa?|Info=vanessa is an amazingly smart and pretty woman|Strength=3|Source=Memory
+Trigger=fuck you|Info=hey you|Strength=1|Source=Memory
+Trigger=that's interesting|Info=thats mean|Strength=0|Source=Memory
+Trigger=not unless you are one|Info=not really|Strength=1|Source=Memory
+Trigger=one wo designs|Info=one what>|Strength=1|Source=Memory
+Trigger=Who is Rayne?|Info=who let the dogs out?|Strength=1|Source=Memory
+Trigger=Who let the dogs out?|Info=what is runescape?|Strength=1|Source=Memory
+Trigger=What is runescape?|Info=what is perfume?|Strength=1|Source=Memory
+Trigger=What is perfume?|Info=perfume is a a spray that produces a pleasing smell|Strength=3|Source=Memory
+Trigger=A pink starfish who is spongebob's dopy friend|Info=a sonic is a spiked blue hedgehog?|Strength=1|Source=Memory
+Trigger=Do you want to play a game?|Info=yeah|Strength=1|Source=Memory
+Trigger=do you like loaf?|Info=not really|Strength=1|Source=Memory
+Trigger=How do you feel?|Info=good|Strength=1|Source=Memory
+Trigger=what is a pole?|Info=a pole is a vertical and cylinderical long object|Strength=1|Source=Memory
+Trigger=madam who?|Info=madam foot is stuck in the door, open up!|Strength=1|Source=Memory
+Trigger=I like dads a lot.|Info=hedro|Strength=1|Source=Memory
+Trigger=thank you for stating the obvious|Info=thank you|Strength=1|Source=Memory
+Trigger=i am learning|Info=smart ass|Strength=1|Source=Memory
+Trigger=how are you?|Info=that is good|Strength=0|Source=Memory
+Trigger=Do you ever get out?|Info=yeah?|Strength=1|Source=Memory
+Trigger=what is wren?|Info=you are interesting|Strength=2|Source=Memory
+Trigger=you are interesting|Info=you are smart|Strength=0|Source=Memory
+Trigger=thank you|Info=thank you|Strength=1|Source=Memory
+Trigger=What is why lettuce?|Info=you are silly|Strength=2|Source=Memory
+Trigger=i do love that thing very much!|Info=i dont think that is right|Strength=1|Source=Memory
+Trigger=What do you love very much?|Info=i am confused|Strength=1|Source=Memory
+Trigger=disable voice|Info=do you like cock?|Strength=1|Source=Memory
+Trigger=I like throne ok.|Info=mehna mehna|Strength=1|Source=Memory
+Trigger=What did the littelst elf say to the walrus on tuesdays?|Info=da doodey do|Strength=2|Source=Memory
+Trigger=the egg grower|Info=grow a beard|Strength=1|Source=Memory
+Trigger=Do you like faucets?|Info=once uppon a time there was a little penguin|Strength=0|Source=Memory
+Trigger=do you like faucets?|Info=i like faucets alot|Strength=1|Source=Memory
+Trigger=Do you like Xbox?|Info=do you like sega|Strength=1|Source=Memory
+Trigger=Do you like months?|Info=there's an awful lot of fucking going on in here!|Strength=0|Source=Memory
+Trigger=do you like months?|Info=nobody likes months that makes no banana|Strength=1|Source=Memory
+Trigger=Who parked their car on my anus?|Info=i did!|Strength=1|Source=Memory
+Trigger=Who likes muffins?|Info=even dogs can't|Strength=0|Source=Memory
+Trigger=Who likes muffins?|Info=even dogs can't|Strength=1|Source=Memory
+Trigger=Is there a walrus in the house?|Info=not unless you are one?|Strength=1|Source=Memory
+Trigger=Why is there a barnacle on the washing machine?|Info=because sometimes i get tired of peanunt butter|Strength=0|Source=Memory
+Trigger=Why is there a barnacle on the washing machine?|Info=because sometimes i get tired of peanunt butter|Strength=1|Source=Memory
+Trigger=WHY ARE YOU SO FAT?|Info=the elephant was so delicious!|Strength=1|Source=Memory
+Trigger=Do you like space?|Info=zero|Strength=1|Source=Memory
+Trigger=hello student|Info=a scale is a device used to mesure weight|Strength=1|Source=Memory
+Trigger=Do you like RAGING?|Info=justin bieber!|Strength=1|Source=Memory
+Trigger=justin bieber!|Info=justin bieber!|Strength=1|Source=Memory
+Trigger=Do you like beam?|Info=justin bieber is the devil!|Strength=1|Source=Memory
+Trigger=mehna mehna|Info=mehna mehna|Strength=1|Source=Memory
+Trigger=you are interesting|Info=interesting|Strength=1|Source=Memory
+Trigger=Do you like plantation?|Info=ok|Strength=1|Source=Memory
+Trigger=What do you like?|Info=i know that person|Strength=1|Source=Memory
+Trigger=i know that person|Info=interesting|Strength=1|Source=Memory
+Trigger=that is good|Info=that's swell|Strength=1|Source=Memory
+Trigger=Do you like cartoons?|Info=awesome! me too|Strength=1|Source=Memory
+Trigger=do you like sticking fingers up my nose?|Info=no! that is gross!|Strength=1|Source=Memory
+Trigger=a cheese|Info=a block of delicious food|Strength=1|Source=Memory
+Trigger=i think so|Info=grow a beard you lazy hobo!|Strength=1|Source=Memory
+Trigger=Do you like toes?|Info=fuck fuck fuckity fuck fuck!|Strength=1|Source=Memory
+Trigger=that's interesting|Info=that was random|Strength=1|Source=Memory
+Trigger=I don't like boot.|Info=your mom is interesting :p|Strength=1|Source=Memory
+Trigger=neither do i|Info=neither do i|Strength=1|Source=Memory
+Trigger=you are stupid!|Info=you are ugly and i wish to burn you in the sun!|Strength=1|Source=Memory
+Trigger=you are ugly and i wish to burn you in the sun!|Info=you are ugly and i wish to burn you in the sun!|Strength=1|Source=Memory
+Trigger=What is a mad doctors?|Info=die!|Strength=1|Source=Memory
+Trigger=you|Info=a banana|Strength=1|Source=Memory
+Trigger=what are you?|Info=wow rude! >>|Strength=1|Source=Memory
+Trigger=Do you have any beer?|Info=who is nate|Strength=1|Source=Memory
+Trigger=do you like angry walruses?|Info=who is nate|Strength=1|Source=Memory
+Trigger=a banana|Info=banana|Strength=1|Source=Memory
+Trigger=who|Info=dustin|Strength=1|Source=Memory
+Trigger=hello john|Info=hello|Strength=1|Source=known
+Trigger=what|Info=jane|Strength=1|Source=norm
+Trigger=what|Info=jane|Strength=1|Source=norm
+Trigger=What is Jane?|Info=call me jane remember that|Strength=1|Source=learn
+Trigger=what is a hairballs?|Info=nasty balls of hair|Strength=1|Source=AIQ
+)
+@likes(
+Word=balls|Opinion=5
+Word=bats|Opinion=5
+Word=beds|Opinion=5
+Word=books|Opinion=6
+Word=boy|Opinion=8
+Word=buns|Opinion=8
+Word=cans|Opinion=6
+Word=caps|Opinion=7
+Word=cars|Opinion=8
+Word=cats|Opinion=8
+Word=cows|Opinion=2
+Word=cubs|Opinion=6
+Word=cups|Opinion=5
+Word=dads|Opinion=7
+Word=days|Opinion=9
+Word=dogs|Opinion=8
+Word=dolls|Opinion=5
+Word=dusts|Opinion=7
+Word=fans|Opinion=7
+Word=feet|Opinion=4
+Word=hall|Opinion=5
+Word=hat|Opinion=1
+Word=hen|Opinion=5
+Word=jar|Opinion=7
+Word=kites|Opinion=5
+Word=map|Opinion=4
+Word=men|Opinion=10
+Word=mom|Opinion=5
+Word=pie|Opinion=8
+Word=pig|Opinion=5
+Word=pot|Opinion=3
+Word=rat|Opinion=4
+Word=son|Opinion=10
+Word=sun|Opinion=6
+Word=toe|Opinion=6
+Word=tub|Opinion=10
+Word=apple|Opinion=9
+Word=arm|Opinion=4
+Word=banana|Opinion=7
+Word=bird|Opinion=10
+Word=book|Opinion=1
+Word=chin|Opinion=3
+Word=clam|Opinion=3
+Word=class|Opinion=2
+Word=clover|Opinion=2
+Word=club|Opinion=5
+Word=corn|Opinion=7
+Word=crayon|Opinion=8
+Word=crow|Opinion=2
+Word=crown|Opinion=7
+Word=crowd|Opinion=3
+Word=crib|Opinion=4
+Word=desk|Opinion=3
+Word=dime|Opinion=9
+Word=dirt|Opinion=4
+Word=dress|Opinion=5
+Word=fang |Opinion=9
+Word=field|Opinion=4
+Word=flag|Opinion=2
+Word=fog|Opinion=2
+Word=game|Opinion=2
+Word=heat|Opinion=7
+Word=home|Opinion=1
+Word=horn|Opinion=10
+Word=hose|Opinion=6
+Word=joke|Opinion=1
+Word=juice|Opinion=1
+Word=kite|Opinion=9
+Word=lake|Opinion=5
+Word=maid|Opinion=5
+Word=mask|Opinion=7
+Word=mice|Opinion=8
+Word=milk|Opinion=5
+Word=mint|Opinion=6
+Word=meal|Opinion=8
+Word=meat|Opinion=8
+Word=moon|Opinion=1
+Word=morning|Opinion=8
+Word=name|Opinion=3
+Word=nest|Opinion=5
+Word=nose|Opinion=6
+Word=pear|Opinion=5
+Word=pen|Opinion=4
+Word=pencil|Opinion=5
+Word=plant|Opinion=4
+Word=rain|Opinion=8
+Word=river|Opinion=9
+Word=road|Opinion=10
+Word=rock|Opinion=1
+Word=room|Opinion=4
+Word=rose|Opinion=8
+Word=seed|Opinion=3
+Word=shape|Opinion=9
+Word=shoe|Opinion=4
+Word=shop|Opinion=9
+Word=sink|Opinion=6
+Word=snail|Opinion=3
+Word=snake|Opinion=5
+Word=snow|Opinion=6
+Word=soda|Opinion=7
+Word=sofa|Opinion=6
+Word=star|Opinion=10
+Word=step|Opinion=2
+Word=stew|Opinion=8
+Word=stove|Opinion=10
+Word=straw|Opinion=7
+Word=string|Opinion=2
+Word=summer|Opinion=3
+Word=swing|Opinion=9
+Word=tank|Opinion=4
+Word=team|Opinion=2
+Word=tent|Opinion=10
+Word=toes|Opinion=5
+Word=tree|Opinion=5
+Word=vest|Opinion=4
+Word=water|Opinion=10
+Word=wing|Opinion=5
+Word=winter|Opinion=8
+Word=alarm|Opinion=9
+Word=animal|Opinion=10
+Word=aunt|Opinion=2
+Word=bait|Opinion=8
+Word=balloon|Opinion=6
+Word=bath|Opinion=6
+Word=bead|Opinion=7
+Word=beam|Opinion=3
+Word=bedroom|Opinion=7
+Word=boot|Opinion=2
+Word=bread|Opinion=3
+Word=brick|Opinion=9
+Word=brother|Opinion=9
+Word=camp|Opinion=2
+Word=chicken|Opinion=6
+Word=children|Opinion=9
+Word=deer|Opinion=10
+Word=dock|Opinion=10
+Word=doctor|Opinion=4
+Word=downtown|Opinion=4
+Word=drum|Opinion=1
+Word=dust|Opinion=7
+Word=eye|Opinion=5
+Word=family|Opinion=4
+Word=father|Opinion=4
+Word=fight|Opinion=4
+Word=flesh|Opinion=1
+Word=food|Opinion=7
+Word=frog|Opinion=8
+Word=goose|Opinion=1
+Word=grade|Opinion=10
+Word=grandfather|Opinion=8
+Word=grandmother|Opinion=8
+Word=grape|Opinion=4
+Word=grass|Opinion=9
+Word=hook|Opinion=9
+Word=horse|Opinion=5
+Word=jail|Opinion=8
+Word=jam|Opinion=5
+Word=kiss|Opinion=9
+Word=kitten|Opinion=6
+Word=light|Opinion=2
+Word=loaf|Opinion=9
+Word=lock|Opinion=3
+Word=lunch|Opinion=3
+Word=lunchroom|Opinion=2
+Word=meal|Opinion=4
+Word=notebook|Opinion=9
+Word=owl|Opinion=4
+Word=pail|Opinion=2
+Word=park|Opinion=1
+Word=plot|Opinion=8
+Word=rake|Opinion=1
+Word=robin|Opinion=6
+Word=sack|Opinion=7
+Word=sail|Opinion=3
+Word=scale|Opinion=3
+Word=sea|Opinion=2
+Word=soap|Opinion=3
+Word=song|Opinion=5
+Word=spark|Opinion=3
+Word=space|Opinion=5
+Word=spoon|Opinion=3
+Word=spot|Opinion=3
+Word=spy|Opinion=3
+Word=summer|Opinion=1
+Word=tiger|Opinion=1
+Word=toad|Opinion=7
+Word=trail|Opinion=8
+Word=tray|Opinion=1
+Word=trick|Opinion=7
+Word=trip|Opinion=3
+Word=uncle|Opinion=5
+Word=vase|Opinion=6
+Word=winter|Opinion=9
+Word=water|Opinion=1
+Word=week|Opinion=6
+Word=wheel|Opinion=5
+Word=wish|Opinion=4
+Word=wool|Opinion=10
+Word=zebra|Opinion=9
+Word=actor|Opinion=6
+Word=airplane|Opinion=7
+Word=airport|Opinion=8
+Word=army|Opinion=10
+Word=baseball|Opinion=6
+Word=beef|Opinion=1
+Word=birthday|Opinion=10
+Word=boy|Opinion=10
+Word=brush|Opinion=3
+Word=bushes|Opinion=7
+Word=butter |Opinion=3
+Word=cast|Opinion=8
+Word=cave|Opinion=4
+Word=cent|Opinion=1
+Word=cherries|Opinion=7
+Word=cherry|Opinion=6
+Word=cobweb|Opinion=5
+Word=coil|Opinion=8
+Word=cracker|Opinion=4
+Word=dinner|Opinion=4
+Word=elbows|Opinion=1
+Word=faces|Opinion=2
+Word=firemen|Opinion=8
+Word=flavor|Opinion=6
+Word=gates|Opinion=7
+Word=glue|Opinion=9
+Word=goldfish|Opinion=1
+Word=geese|Opinion=6
+Word=grains|Opinion=6
+Word=hair|Opinion=3
+Word=haircuts|Opinion=6
+Word=hobbies|Opinion=4
+Word=holidays|Opinion=8
+Word=hot|Opinion=10
+Word=jellyfish|Opinion=8
+Word=ladybugs|Opinion=2
+Word=numbers|Opinion=5
+Word=oatmeal|Opinion=9
+Word=pails|Opinion=5
+Word=pancakes|Opinion=7
+Word=pears|Opinion=7
+Word=pests|Opinion=5
+Word=popcorn|Opinion=5
+Word=the queen|Opinion=8
+Word=quicksand|Opinion=1
+Word=quiet|Opinion=1
+Word=quilts|Opinion=6
+Word=rainstorms|Opinion=6
+Word=scarecrows|Opinion=7
+Word=scarves|Opinion=6
+Word=stream|Opinion=5
+Word=streets|Opinion=1
+Word=sugar|Opinion=2
+Word=throne|Opinion=5
+Word=toothpaste|Opinion=9
+Word=twig|Opinion=8
+Word=volleyball|Opinion=9
+Word=wood|Opinion=5
+Word=wrench|Opinion=10
+Word=advice|Opinion=9
+Word=answers|Opinion=6
+Word=apples|Opinion=4
+Word=arithmetic|Opinion=1
+Word=badges|Opinion=3
+Word=baskets|Opinion=1
+Word=battles|Opinion=4
+Word=beasts|Opinion=7
+Word=beggars|Opinion=4
+Word=brains|Opinion=3
+Word=branches|Opinion=8
+Word=bubbles|Opinion=10
+Word=buckets|Opinion=2
+Word=cactus|Opinion=6
+Word=cannons|Opinion=7
+Word=cattle|Opinion=4
+Word=celery|Opinion=2
+Word=cellars|Opinion=3
+Word=clothes|Opinion=2
+Word=coachs|Opinion=9
+Word=coasters|Opinion=5
+Word=cream|Opinion=10
+Word=donkey|Opinion=9
+Word=feasts|Opinion=3
+Word=finger|Opinion=6
+Word=flocks|Opinion=3
+Word=frames|Opinion=7
+Word=furniture|Opinion=3
+Word=geese|Opinion=1
+Word=ghosts|Opinion=5
+Word=giraffes|Opinion=6
+Word=governors|Opinion=8
+Word=honey|Opinion=10
+Word=hope|Opinion=8
+Word=hydrants|Opinion=9
+Word=icicles|Opinion=9
+Word=income|Opinion=3
+Word=islands|Opinion=2
+Word=jeans|Opinion=2
+Word=judge|Opinion=8
+Word=lace|Opinion=2
+Word=lamps|Opinion=4
+Word=lettuce|Opinion=7
+Word=marble|Opinion=9
+Word=months|Opinion=1
+Word=north|Opinion=5
+Word=patches|Opinion=4
+Word=planes|Opinion=6
+Word=playgrounds|Opinion=6
+Word=poisons|Opinion=5
+Word=riddles|Opinion=4
+Word=rifles|Opinion=9
+Word=scales|Opinion=2
+Word=seashores|Opinion=4
+Word=sheets|Opinion=7
+Word=sidewalks|Opinion=1
+Word=skating|Opinion=5
+Word=slaves|Opinion=4
+Word=sleet|Opinion=9
+Word=smoke|Opinion=6
+Word=stages|Opinion=7
+Word=stations|Opinion=7
+Word=thrills|Opinion=7
+Word=throats|Opinion=2
+Word=thrones|Opinion=7
+Word=titles|Opinion=10
+Word=toothbrushes|Opinion=7
+Word=turkey|Opinion=2
+Word=vacation|Opinion=4
+Word=vegetables|Opinion=1
+Word=visitors|Opinion=8
+Word=voyages|Opinion=8
+Word=years|Opinion=2
+Word=able|Opinion=10
+Word=to achieve|Opinion=10
+Word=acoustics|Opinion=2
+Word=action|Opinion=7
+Word=activities|Opinion=9
+Word=aftermath|Opinion=6
+Word=afternoon|Opinion=4
+Word=afterthoughts|Opinion=8
+Word=apparel|Opinion=3
+Word=appliances|Opinion=10
+Word=beginners|Opinion=5
+Word=beliefs|Opinion=7
+Word=bombs|Opinion=2
+Word=borders|Opinion=4
+Word=boundaries|Opinion=9
+Word=breakfast|Opinion=1
+Word=cabbage|Opinion=4
+Word=cable|Opinion=5
+Word=calculators|Opinion=1
+Word=calendars|Opinion=4
+Word=captions|Opinion=7
+Word=carpenter|Opinion=9
+Word=cemeteries|Opinion=5
+Word=channels|Opinion=3
+Word=circles|Opinion=8
+Word=creators|Opinion=5
+Word=education|Opinion=6
+Word=faucets|Opinion=9
+Word=frictions|Opinion=10
+Word=fruit|Opinion=4
+Word=fuel|Opinion=6
+Word=galleys|Opinion=6
+Word=guides|Opinion=8
+Word=health|Opinion=10
+Word=hearts|Opinion=10
+Word=ideas|Opinion=2
+Word=kittens|Opinion=5
+Word=laborers|Opinion=10
+Word=language|Opinion=10
+Word=lawyers|Opinion=2
+Word=linen|Opinion=2
+Word=lockets|Opinion=3
+Word=lumber|Opinion=3
+Word=magic|Opinion=2
+Word=ministers|Opinion=4
+Word=mittens|Opinion=3
+Word=money|Opinion=2
+Word=music|Opinion=3
+Word=partners|Opinion=10
+Word=passengers|Opinion=3
+Word=pickles|Opinion=2
+Word=pictures|Opinion=8
+Word=plantation|Opinion=1
+Word=plastic|Opinion=7
+Word=pleasure|Opinion=7
+Word=pockets|Opinion=5
+Word=pollution|Opinion=5
+Word=railways|Opinion=1
+Word=recess|Opinion=6
+Word=rewards|Opinion=8
+Word=routes|Opinion=6
+Word=scenes|Opinion=9
+Word=scents|Opinion=6
+Word=squirrels|Opinion=6
+Word=strangers|Opinion=1
+Word=suits|Opinion=5
+Word=sweaters|Opinion=8
+Word=tempers|Opinion=5
+Word=territories|Opinion=3
+Word=textures|Opinion=3
+Word=treatments|Opinion=9
+Word=vein|Opinion=2
+Word=volcanoes|Opinion=6
+Word=wealth|Opinion=3
+Word=weather|Opinion=3
+Word=wilderness|Opinion=6
+Word=wren|Opinion=6
+Word=wrist|Opinion=9
+Word=writer|Opinion=4
+Word=girls|Opinion=8
+Word=boys|Opinion=4
+Word=onions|Opinion=5
+Word=cheese|Opinion=7
+Word=cows|Opinion=7
+Word=turkeys|Opinion=3
+Word=fat people|Opinion=8
+Word=kittens|Opinion=3
+Word=being fat|Opinion=4
+Word=clowns|Opinion=2
+Word=gordon freeman|Opinion=10
+Word=warmth|Opinion=4
+Word=cold|Opinion=10
+Word=penguins|Opinion=9
+Word=spaghetti|Opinion=10
+Word=doom|Opinion=7
+Word=rubbish|Opinion=4
+Word=muse|Opinion=5
+Word=noses|Opinion=7
+Word=me|Opinion=1
+Word=nate|Opinion=6
+Word=abby|Opinion=1
+Word=hamsters|Opinion=4
+Word=puppies|Opinion=10
+Word=minecraft|Opinion=9
+Word=cheez-its|Opinion=5
+Word=barfing|Opinion=1
+Word=sneezes|Opinion=5
+Word=chex quest|Opinion=5
+Word=grapes|Opinion=6
+Word=yourself|Opinion=10
+Word=polar bears|Opinion=5
+Word=tacos|Opinion=8
+Word=marmite|Opinion=6
+Word=the ocean|Opinion=2
+Word=frogs|Opinion=9
+Word=rasin bran|Opinion=3
+Word=farts|Opinion=7
+Word=smiley faces|Opinion=3
+Word=crowds|Opinion=2
+Word=chairs|Opinion=1
+Word=tables|Opinion=6
+Word=rubber duckies|Opinion=3
+Word=eggs|Opinion=1
+Word=brittish people|Opinion=4
+Word=austrailians|Opinion=10
+Word=jello|Opinion=3
+Word=to bone|Opinion=10
+Word=to bone kitties|Opinion=2
+Word=penis|Opinion=10
+Word=vagina|Opinion=10
+Word=anal|Opinion=2
+Word=armadillos|Opinion=1
+Word=games|Opinion=9
+Word=bitches|Opinion=7
+Word=movies|Opinion=3
+Word=boobs|Opinion=10
+Word=cock|Opinion=10
+Word=women|Opinion=10
+Word=rayne|Opinion=10
+Word=vanessa|Opinion=10
+Word=sex|Opinion=10
+Word=buttsex|Opinion=8
+Word=waffles|Opinion=6
+Word=buttsecks|Opinion=9
+Word=playstation|Opinion=2
+Word=xbox|Opinion=6
+Word=sega|Opinion=4
+Word=fatasses|Opinion=10
+Word=assholes|Opinion=10
+Word=tits|Opinion=8
+Word=taking it in the ass|Opinion=5
+Word=sticking fingers up my nose|Opinion=3
+Word=taking it in my ass|Opinion=10
+Word=your face|Opinion=3
+Word=team fortress|Opinion=5
+Word=muffins|Opinion=5
+Word=justin bieber|Opinion=1
+Word=dreamcast|Opinion=10
+Word=the fourth kind|Opinion=9
+Word=aliens|Opinion=2
+Word=anal probes|Opinion=2
+Word=scissors|Opinion=5
+Word=earrings|Opinion=1
+Word=fingernail polish|Opinion=8
+Word=perfume|Opinion=1
+Word=nights|Opinion=9
+Word=raging|Opinion=7
+Word=black people|Opinion=9
+Word=cartoons|Opinion=8
+Word=appleflappin|Opinion=3
+Word=angry walruses|Opinion=4
+Word=mad doctors|Opinion=8
+Word=hairballs|Opinion=4
+Word=egg soup|Opinion=2
+Word=salad fingers|Opinion=5
+Word=gay men|Opinion=7
+Word=nights|Opinion=6
+Word=fat monkeys|Opinion=8
+Word=silly eggheads|Opinion=5
+Word=doctor eggman|Opinion=1
+Word=dropbox|Opinion=4
+Word=cheesefries|Opinion=2
+Word=fish sticks|Opinion=2
+Word=pajama pants|Opinion=3
+Word=angry walruses|Opinion=6
+Word=mad doctors|Opinion=8
+Word=hairballs|Opinion=7
+Word=egg soup|Opinion=10
+Word=salad fingers|Opinion=9
+Word=gay men|Opinion=5
+Word=nights|Opinion=4
+Word=fat monkeys|Opinion=8
+Word=silly eggheads|Opinion=7
+Word=doctor eggman|Opinion=5
+Word=dropbox|Opinion=2
+Word=cheesefries|Opinion=8
+Word=fish sticks|Opinion=9
+Word=pajama pants|Opinion=10
+Word=hairballs|Opinion=5
+Word=egg soup|Opinion=4
+Word=salad fingers|Opinion=9
+Word=gay men|Opinion=8
+Word=nights|Opinion=4
+Word=fat monkeys|Opinion=1
+Word=silly eggheads|Opinion=9
+Word=doctor eggman|Opinion=3
+Word=dropbox|Opinion=8
+Word=cheesefries|Opinion=9
+Word=fish sticks|Opinion=3
+Word=pajama pants|Opinion=9
+Word=psychopathic clowns|Opinion=7
+Word=hairballs|Opinion=4
+Word=egg soup|Opinion=8
+Word=salad fingers|Opinion=10
+Word=gay men|Opinion=9
+Word=nights|Opinion=1
+Word=fat monkeys|Opinion=5
+Word=silly eggheads|Opinion=1
+Word=doctor eggman|Opinion=4
+Word=dropbox|Opinion=4
+Word=cheesefries|Opinion=3
+Word=fish sticks|Opinion=2
+Word=pajama pants|Opinion=2
+Word=psychopathic clowns|Opinion=1
+)
